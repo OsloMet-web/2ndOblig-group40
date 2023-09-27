@@ -14,7 +14,7 @@ img {
 }
 
 .artikkeltekst {
-    margin: 0px 150px 0px 100px;
+    margin: 0px 0px 0px 100px;
     font-family: sans-serif;
 }
 
@@ -23,5 +23,9 @@ img {
 }
 
 h1, h2, h3 {
+    font-family: sans-serif;
+}
+
+p {
     font-family: sans-serif;
 }
