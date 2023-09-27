@@ -9,5 +9,5 @@ button {color:rgb(127, 227, 255);}
 
 .artikkeltekst {
     text-align: left;
-    margin: 100px;
+    margin: 100px 0 100px 0;
 }
