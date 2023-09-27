@@ -1,22 +1,18 @@
 body {
     text-align:left;
+    margin: 0px 250px 0px 100px;
 }
 
 img {
-    height:90%;
-    width:90%;
+    height:100%;
+    width:100%;
 }
 
 .knapp {
     text-align: right;
 }
 
-.topp {
-    margin: 0px 250px 0px 200px;
-}
-
 .artikkeltekst {
-    margin: 0px 250px 0px 200px;
     font-family: sans-serif;
 }
 
@@ -24,7 +20,7 @@ img {
     color: grey;
 }
 
-h1, h2, h3 {
+h1, h2, h3, h4 {
     font-family: sans-serif;
 }
 
