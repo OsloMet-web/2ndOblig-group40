@@ -19,6 +19,10 @@ img {
     font-family: sans-serif;
 }
 
+p {
+    margin-right: 150px;
+}
+
 #byline {
     color: grey;
 }
