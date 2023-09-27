@@ -12,11 +12,11 @@ img {
 }
 
 .topp {
-    margin: 0px 200px 0px 200px;
+    margin: 0px 250px 0px 200px;
 }
 
 .artikkeltekst {
-    margin: 0px 200px 0px 200px;
+    margin: 0px 250px 0px 200px;
     font-family: sans-serif;
 }
 
@@ -29,5 +29,5 @@ h1, h2, h3 {
 }
 
 p {
-    font-family: 'Courier New', Courier, monospace;
+    font-family: sans-serif;
 }
