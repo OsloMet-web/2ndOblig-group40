@@ -3,7 +3,8 @@ body {text-align:left;
 }
 
 img {border-radius:10%;
-    height:200px;
+    height:100%;
+    width:100%;
 }
 
 button {color:rgb(127, 227, 255);}
