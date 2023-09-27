@@ -2,7 +2,7 @@ body {text-align:left;
      margin: 0 100px 0 100px;
 }
 
-img {border-radius:10%;
+img {
     height:100%;
     width:100%;
 }
@@ -11,5 +11,5 @@ button {color:rgb(127, 227, 255);}
 
 .artikkeltekst {
     text-align: left;
-    margin: 0 100px 0 100px;
+    margin: 0 50px 0 50px;
 }
