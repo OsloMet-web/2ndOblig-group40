@@ -8,6 +8,10 @@ img {
 
 button {color:rgb(127, 227, 255);}
 
+.topp {
+    margin: 0 40px 0 40px;
+}
+
 .artikkeltekst {
     text-align: left;
     margin: 0 40px 0 40px;
