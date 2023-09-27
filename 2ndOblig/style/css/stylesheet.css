@@ -7,15 +7,6 @@ body {
     font-family: sans-serif;
 }
 
-img {
-    height:100%;
-    width:100%;
-}
-
-.knapp {
-    text-align: right;
-}
-
 .artikkeltekst {
     font-family: sans-serif;
 }
@@ -32,6 +23,11 @@ p {
     font-family: sans-serif;
 }
 
+img {
+    height:100%;
+    width:100%;
+}
+
 caption {
     font-family: sans-serif;
     color: grey;
@@ -39,4 +35,8 @@ caption {
 
 li {
     font-family: sans-serif;
+}
+
+.knapp {
+    text-align: right;
 }
