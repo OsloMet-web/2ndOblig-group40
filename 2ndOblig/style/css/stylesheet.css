@@ -40,3 +40,8 @@ caption {
 li {
     font-family: sans-serif;
 }
+
+footer {
+    background-color: bisque;
+    border: solid;
+}
