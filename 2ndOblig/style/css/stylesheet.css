@@ -1,4 +1,4 @@
-body {text-align:left;
+body {text-align:center;
 }
 
 img {border-radius:10%;
@@ -8,5 +8,6 @@ img {border-radius:10%;
 button {color:rgb(127, 227, 255);}
 
 .artikkeltekst {
-    text-align: center;
+    text-align: left;
+    margin: 100px;
 }
