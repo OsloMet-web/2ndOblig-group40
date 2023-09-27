@@ -1,0 +1,34 @@
+body {
+    text-align:left;
+    margin: 0px 250px 0px 100px;
+}
+
+img {
+    height:100%;
+    width:100%;
+}
+
+.knapp {
+    text-align: right;
+}
+
+.artikkeltekst {
+    font-family: sans-serif;
+}
+
+#byline {
+    color: grey;
+}
+
+h1, h2, h3, h4 {
+    font-family: sans-serif;
+}
+
+p {
+    font-family: sans-serif;
+}
+
+caption {
+    font-family: sans-serif;
+    color: grey;
+}
