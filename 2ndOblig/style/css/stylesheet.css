@@ -42,13 +42,6 @@ li {
     margin: 20px 20px 20px 20px;
 }
 
-.footer1 {
-    background-color: rgba(188, 228, 228, 0.216);
-    border: solid;
-    vertical-align: left;
-    padding: 10px;
-}
-
 .secondpage {
     margin: 0 200px 0 100px;
    
@@ -73,3 +66,26 @@ li {
   font-size: 3rem;
 }
 
+#accessibilitytest {
+    width: 70%;
+    height: auto;
+    align-items: center;
+    padding: 20px;
+}
+
+footer {
+    padding: 50px;
+    text-align: center;
+    background: #FFD500;
+    font-family: Helvetica, sans-serif;
+  }
+
+footer img {
+    align-content: center;
+    max-width: 10%;
+    height: auto;
+}
+
+footer ul {
+    list-style: none;
+}
