@@ -53,3 +53,30 @@ li {
     margin: 0 200px 0 100px;
    
 }
+#page-header {
+    background-color: #1f0d93;
+    color: white;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header {
+    display: flex;
+}
+
+.horizontal-menu {
+    list-style: none;
+    display: flex;
+}
+
+.horizontal-menu li {
+    margin-right: 20px; /* Legg til mellomrom mellom menyelementene */
+}
+
+.horizontal-menu li a {
+    text-decoration: none;
+    color: #FFD500fc;
+    font-weight: bold;
+}
